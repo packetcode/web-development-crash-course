@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #f9d5bb;
+  padding: 1rem;
+  text-align: center;
+}
+
+.light {
+  background: #f66767;
+}
+
+.dark {
+  background: #be4f4f;
+}
+
+.item {
+  color: #3c3d47;
+  font-size: 6rem;
+}
+
+/* .container {
+  display: grid;
+  grid-template-columns: repeat(2, 200px);
+  grid-auto-rows: minmax(200px, auto);
+  grid-gap: 1.5rem;
+  border: 5px #3c3d47 solid;
+  justify-content: center, space-evenly, space-between, space-around, start, end;
+  justify-self: auto;
+} */

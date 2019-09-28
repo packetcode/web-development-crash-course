@@ -1,0 +1,17 @@
+* {
+  color: white;
+}
+
+body {
+  background: #000;
+  font-family: sans-serif;
+  font-size: 2rem;
+}
+
+.heading {
+  text-align: center;
+  border: 3px #fff solid;
+  border-radius: 1rem 0rem;
+  padding: 1rem 0rem;
+  margin: 1rem 0rem;
+}
